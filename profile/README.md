@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://feast.dev/">
-      <img src="docs/assets/feast_logo.png" width="550">
+      <img src="feast_logo.png" width="550">
     </a>
 </p>
 <br />
