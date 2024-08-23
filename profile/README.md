@@ -10,7 +10,7 @@
 Welcome to Feast, the Open Source Feature Store. We are so glad you're here! 
 
 ## Come join us on Slack!
-👋👋👋 [Come say hi on Slack!](https://join.slack.com/t/feastopensource/signup) or reach out to us on [Twitter/X](https://twitter.com/feast_dev).
+👋👋👋 [Come say hi on Slack!](https://communityinviter.com/apps/feastopensource/feast-the-open-source-feature-store) or reach out to us on [Twitter/X](https://twitter.com/feast_dev).
 
 ## Overview
 
